@@ -1,0 +1,72 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "ca.siddharth.www"
+        }
+    },
+    "dependent_plugins": {}
+}
